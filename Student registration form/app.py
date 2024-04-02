@@ -9,7 +9,7 @@ app = Flask(__name__)
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "Jivan123@mysql",
+    "password": "Your_Password",  #Not written due to security reasons
     "database": "registration_db"
 }
 
